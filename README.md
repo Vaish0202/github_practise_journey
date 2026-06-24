@@ -10,3 +10,8 @@ I want to work on real projects and collaborate with teams like a professional d
 - Configured my name and email
 - Created this repo
 - Cloned it locally
+
+## Day 2 — Done ✓
+- Mastered the edit → stage → commit → push loop
+- Learned what staging means
+- Made multiple commits in one session
